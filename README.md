@@ -15,9 +15,12 @@ Oleh: Dhiya' Rafiq Azka (14417044) dalam rangka menyelesaikan UAS mata kuliah Da
 
 ## Struktur Data
 Data diambil dari [Twitter](https://www.twitter.com) terhadap tweet yang mengandung kata kunci “Vaksin COVID Indonesia”.
-Terdapat 1000 tweets yang diambil pada tanggal 12 Desember 2020 dengan 16 variabel pada dataset-nya. Seluruh tweets tersebut merupakan 1000 tweets terakhir yang di-post di Twitter hingga tanggal 12 Desember 2020
+
+Terdapat 1000 tweets yang diambil pada tanggal 12 Desember 2020 yang memiliki 16 variabel pada dataset-nya. Seluruh tweets tersebut merupakan 1000 tweets terakhir yang di-post di Twitter hingga tanggal 12 Desember 2020
 
 ```
+Deskripsi variabel
+
 text: Isi tweet
 favorited: Status favorite pada tweet tersebut (telah di-favorite atau belum)
 favoriteCount: Jumlah favorite pada tweet tersebut
